@@ -142,3 +142,4 @@ The production workflow supports:
 # Status
 
 Currently running in internal testing and workflow optimization stage.
+<img width="1001" height="465" alt="miiverse_agent_workflow" src="https://github.com/user-attachments/assets/058b5fe7-2b43-4bd3-98d3-3a13707cc6a8" />
