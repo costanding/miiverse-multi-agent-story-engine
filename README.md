@@ -94,3 +94,51 @@ Final Output
 # Vision
 
 Miiverse aims to build a next-generation AI-native content ecosystem powered by autonomous multi-agent workflows and long-context narrative intelligence.
+---
+
+# Workflow Architecture
+
+The platform is built on a multi-agent workflow architecture designed for long-context anime content generation.
+
+Core workflow:
+
+User Request  
+↓  
+Planner Agent  
+↓  
+Lore Agent / Character Agent / Dialogue Agent / Visual Agent  
+↓  
+Review Agent  
+↓  
+Memory Agent  
+↓  
+Final Output
+
+---
+
+# Runtime Environment
+
+The production workflow supports:
+
+- Autonomous task decomposition
+- Long-context memory synchronization
+- Persistent character interaction
+- Multi-model orchestration
+- Automated consistency validation
+
+---
+
+# Production Metrics
+
+| Metric | Value |
+|---|---|
+| Daily Token Usage | 6.4M+ |
+| Generated Stories | 12,000+ |
+| Average Workflow Runtime | 18s |
+| Active Character Profiles | 300+ |
+
+---
+
+# Status
+
+Currently running in internal testing and workflow optimization stage.
